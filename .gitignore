@@ -1,0 +1,10 @@
+
+# Ignore log
+*.log
+
+# Ignore user config
+system-test\WindowsInfo.ini
+system-test\User.ini
+system-test\Option.ini
+system-test\Localization.ini
+system-test\chatfilter.ini
